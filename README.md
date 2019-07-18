@@ -9,7 +9,7 @@ Most of the images are custom. Copyright protection is in process.
 ![image](Image.png)
 
 ## Merger Analysis
-![image](MergerAnalysis.png)
+![image](MergerAnalysisEDA.png)
 
 ## Raising Capital
 ![image](RaisingCapital.png)
