@@ -55,12 +55,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="EntityValuations.xaml.cs">
+      <DependentUpon>EntityValuations.xaml</DependentUpon>
+    </Compile>
     <Compile Include="FormingACorporation.xaml.cs">
       <DependentUpon>FormingACorporation.xaml</DependentUpon>
     </Compile>
     <Compile Include="RaisingCapital.xaml.cs">
       <DependentUpon>RaisingCapital.xaml</DependentUpon>
     </Compile>
+    <Page Include="EntityValuations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="FormingACorporation.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -117,6 +124,24 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Presentation1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Cisco Entity Valuation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image5.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

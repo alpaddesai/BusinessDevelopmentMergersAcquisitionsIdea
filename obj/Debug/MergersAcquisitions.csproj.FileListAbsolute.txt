@@ -18,3 +18,5 @@ C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\Merg
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions.exe
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions.pdb
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\EntityValuations.g.cs
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\EntityValuations.baml

@@ -46,5 +46,11 @@ namespace MergersAcquisitions
         private void RichTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
          }
+
+        private void EntityValuations_Click(object sender, RoutedEventArgs e)
+        {
+            EntityValuations EntityValuationsObject = new EntityValuations();
+            EntityValuationsObject.Show();
+        }
     }
 }

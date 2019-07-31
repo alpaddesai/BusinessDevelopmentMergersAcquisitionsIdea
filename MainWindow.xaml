@@ -13,17 +13,17 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid Margin="0,0,20,14">
-        <Button x:Name="M_A" Content="M&amp;A Example in the  Electronic Design &#xD;&#xA;and Automation Industry" HorizontalAlignment="Left" Margin="2,563,0,0" VerticalAlignment="Top" Width="358" Height="87" RenderTransformOrigin="-0.381,0.157" Click="M_A_Click" FontWeight="Bold">
+        <Button x:Name="M_A" Content="M&amp;A Example in the  Electronic Design &#xD;&#xA;and Automation Industry" HorizontalAlignment="Left" Margin="53,562,0,0" VerticalAlignment="Top" Width="252" Height="87" RenderTransformOrigin="-0.381,0.157" Click="M_A_Click" FontWeight="Bold">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
         </Button>
-        <Button x:Name="Raising_Capital_Example_for_an_Acquisition" Content="Raising Capital Example&#xD;&#xA;    for an Acquisition" HorizontalAlignment="Left" Margin="367,565,0,0" VerticalAlignment="Top" Width="347" Height="87" Click="Raising_Capital_Example_for_an_Acquisition_Click" RenderTransformOrigin="0.492,0.586" FontWeight="Bold">
+        <Button x:Name="Raising_Capital_Example_for_an_Acquisition" Content="Raising Capital Example&#xD;&#xA;    for an Acquisition" HorizontalAlignment="Left" Margin="315,564,0,0" VerticalAlignment="Top" Width="215" Height="87" Click="Raising_Capital_Example_for_an_Acquisition_Click" RenderTransformOrigin="0.492,0.586" FontWeight="Bold">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
         </Button>
-        <Button x:Name="FormA" Content="Forming a Corporation" HorizontalAlignment="Left" Margin="717,564,0,0" VerticalAlignment="Top" Width="349" Height="91" Click="FormA_Click" FontWeight="Bold">
+        <Button x:Name="FormA" Content="Forming a Corporation" HorizontalAlignment="Left" Margin="552,565,0,-3" VerticalAlignment="Top" Width="180" Height="91" Click="FormA_Click" FontWeight="Bold">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
@@ -33,64 +33,119 @@
                 <Paragraph>
                     <Run Text="    "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Main participants "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="for a merger's negotiation includes senior or operating management, investment bankers, lawyers and accountants.    "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Senior management"/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text=": Responsible for the business strategy including target selection and how to finance the acquisition. The "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="investment bank "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="is the underwrite for the M &amp; A and an advisor, this includes screening potential buyers and sellers, valuation and deal structuring guidance.  "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Lawyers "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="are involved in structuring the deal, evaluating risk, negotiating many of the tax and financial terms and conditions and coordinating the timing and sequence of events to complete the transaction, drafting and reviewing the agreement of purchase and sales and other transaction related documentation. "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Legal teams: "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="bring specialized expertise in a given aspect of the law such as M &amp; As, corporate , tax, employee benefits, real estate, antitrust, securities, environmental and intellectual property.  "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Accountants: "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="advise on the most appropriate tax and financial structures and on performing financial due diligence.  The accountant's input will impact how the transaction is structured, they also prepare the financial statements and perform audits in accordance with the Generally Accepted Accounting Principles (GAAP). "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Target selection: "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="Within a target market, a potential target firm should be identified based on the selection criteria such as size, market share, reputation, growth and synergies.  "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Deal structuring process: "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="needs to take into consideration the purchase price and financing strategy. Financing strategies: Cash payment, non cash payment in the form of securities, alternative non cash payments include real estate properties, rights to intellectual property, royalties, earn outs and contingent payments.  "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Form of acquisition:  "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="It is the process or mechanism for transferring ownership of assets from the target firm to the acquiring firm. Within an asset purchase the sale of all or a portion of the target's assets occurs.  The purchase price is paid directly to the target firm (private company). The buyer purchases the assets in exchange for buyer stock, cash or debt. Stock purchase involves the sale of outstanding target company's  stock to the buyer company.  The target's shareholders may receive acquirer stock or cash.  "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Subsidiary merger: "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text=" "/>
                     <Run Text="Most mergers are structured where the acquiring firm creates a new corporate subsidiary that mergers with the target, with the target brand hence surviving, it just owned and controlled by the acquirer"/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text=". Statutory merger:  "/>
                     <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
                     <Run Text="A statutory consolidation is where two ore more companies join to form a new company.  All legal entities are consolidated and are dissolved as the new company is formed. Merger of equals:  The combined firm can be managed by former CEOs.  "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Net acquisition value (NAV): "/>
+                    <Run Text=" "/>
                     <Run Text="Synergies of the combined firm should have a positive NAV, where NAV is equal to the value of the combined firm - value of acquiring firm -value of the target firm-premium paid for B - expenses.  "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Types of Synergies"/>
+                    <Run Text=" "/>
                     <Run Text=": Operating synergy, financial synergy and marketing synergy. Operating synergy can be categorized into cost reductions and revenue increases and efficiency gains through operating economies (economy of scope and scale). Marketing synergies can be derived from horizontal or vertical mergers. Financial synergy:  Can result form a reduction in the cost of capital and increase in the stability of cash flows. "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" Text="Corporate restructuring: "/>
+                    <Run Text=" "/>
                     <Run Text="  Different restructuring forms include: Divestitures - sale of a portion of the firm to an outside party, most firms are simple divestitures, equity carve-out: means the sale of an equity interest to a subsidiary. In a  standard spin-off a new legal entity is created and new shares are issued and are distributed to stockholders on a pro rata basis. Spit -up means that the firm is divided into a series of spin-offs. Corporate restructuring can also entail change to the corporate's capital structure."/>
                 </Paragraph>
                 <Paragraph>
-                    <Run Text="Reference: Mergers, Acquisitions and corporate restructurings by Patrick A. Gaughan, 2015"/>
+                    <Run Text="Reference: Mergers, Acquisitions and corporate restructurings by Patrick A. Gaughan, 2015 "/>
                 </Paragraph>
                 <Paragraph>
                     <Run Text="Reference: Mergers and Acquisitions basics negotiation and deal structuring, Donald M. DePamphilis, 2011"/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
+        <Button x:Name="EntityValuations" Content="Entity Valuations" HorizontalAlignment="Left" Margin="760,566,0,-1" VerticalAlignment="Top" Width="174" Height="88" Click="EntityValuations_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Image1.png"/>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Window>
