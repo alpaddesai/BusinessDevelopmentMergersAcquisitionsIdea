@@ -12,7 +12,7 @@ Most of the images are custom. Copyright protection is in process.
 ![image](MergerAnalysisEDA.png)
 
 ## Raising Capital
-![image](RaisingCapital.png)
+![image](Image_RaisingCapital.png)
 
 ## Forming a Corporation
 ![image](FormingACorporation.png)
