@@ -13,33 +13,26 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid MaxWidth="839" MaxHeight="528" Margin="0,0,27,18">
-        <RichTextBox HorizontalAlignment="Left" Height="501" Margin="5,10,0,0" VerticalAlignment="Top" Width="422" FontSize="14">
-            <FlowDocument>
-                <Paragraph>
-                    <Run FontFamily="Calibri" Text="In order to finance an acquisition between two leading organizations in the semi-conductor industry the following hypothetical "/>
-                    <Run FontWeight="Bold" FontFamily="Calibri" Text="financial strategy "/>
-                    <Run FontFamily="Calibri" Text="can be applied: "/>
-                </Paragraph>
-                <Paragraph FontFamily="Calibri" Margin="0,0,0,13.33" TextAlignment="Justify">
-                    <Run Text="Assuming the following loan covenants are applicable for the combined firm to achieve optimal capital structure Long term debt/ equity&lt; = 0.75 and the Interest coverage ratio (EBIT/Interest expense) &gt;= 2.5. The acquiring company has numerous options to finance the acquisition. It can issue public corporate unsecured convertible senior notes to finance the acquisition. The conversion feature within these additional convertible notes allows the bondholder to convert the bond to stock when the conversion price is higher than the market price of the stock. Alternatively it can finance through asset based secure lending utilizing the underlying stable asset cash flows as collateral.  The payment strategy to purchase the target company's stock would be a combined cash and stock transactions through a tender stock purchase offer to all the target company's share holders. This would establish the acquiring company as the sole share holder with the target company be a subsidiary. The second step would be once the target company is the majority shareholder, through a back end merger it can require the minority shareholders to sell any remaining stock if required. To finance the purchase the acquiring company would borrow $1888.54 million through public corporate bonds. With this additional debt and at the base purchase price of $26.69 the acquiring company can purchase 70.75 million target company shares .The remaining 24.2087 million would be purchased through additional distribution of 21.42 million target company stocks."/>
-                </Paragraph>
-                <Paragraph>
-                    <Run/>
-                </Paragraph>
-            </FlowDocument>
-        </RichTextBox>
-        <RichTextBox HorizontalAlignment="Left" Height="499" Margin="432,12,-17,-1" VerticalAlignment="Top" Width="397">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+        <RichTextBox HorizontalAlignment="Left" Height="454" Margin="432,12,-17,0" VerticalAlignment="Top" Width="397" Grid.RowSpan="2">
             <FlowDocument>
                 <Paragraph>
                     <Run FontSize="14" FontFamily="Calibri" Text="For the same merger example the following "/>
+                    <Run Text=" "/>
                     <Run FontWeight="Bold" FontSize="14" FontFamily="Calibri" Text="negotiation strategy "/>
+                    <Run Text=" "/>
                     <Run FontSize="14" FontFamily="Calibri" Text="can be applied:"/>
                 </Paragraph>
                 <Paragraph FontSize="14.6666666666667" FontFamily="Calibri" Margin="0,0,0,13.33" TextAlignment="Justify">
-                    <Run FontSize="14" Text="Minimum price for the target company's stand alone equity value range is $1810 &lt;x&lt; $2972. USD millions.  The current market capitalization for the target company is $2,534.67.   Maximum price for the target company equity value would include the net of all synergies of $6,418.02 bringing an absolute maximum price range to $8228 to $9390 USD millions. The initial offer by the acquiring company should be equal to the market value with a 10% control premium and a 15% net synergy impact, which would be $3750.84 USD million. The final price should be around $4.5 billion which equates to 1.4xtimes the market value which is reasonable. The payment structure would be a combination of cash and the acquiring company's stock transactions to buy stock from the target company's share holders.  If the target company has a higher asking price, a contingent  earn out can be created as additional payment of $323.65 million.  Assuming the earn out target is the projected annual earnings increase of 15%, any additional increase to the earnings can be the earn out payment, the value above is assuming as an additional 15% increase over the next 5 years.  The "/>
+                    <Run FontSize="14" Text="Minimum price for the target company's stand alone equity value range is $1810 &lt;x&lt; $2972. USD millions.  The current market capitalization for the target company is $2,534.67.   Maximum price for the target company equity value would include the net of all synergies of $6,418.02 bringing an absolute maximum price range to $8228 to $9390 USD millions. The initial offer by the acquiring company should be equal to the market value with a 10% control premium and a 15% net synergy impact, which would be $3750.84 USD million. The final price should be around $4.5 billion which equates to 1.4xtimes the market value which is reasonable. The payment structure would be a combination of cash and the acquiring company's stock transactions to buy stock from the target company's share holders.  If the target company has a higher asking price, a contingent  earn out can be created as additional payment of $323.65 million.  Assuming the earn out target is the projected annual earnings increase of 15%, any additional increase to the earnings can be the earn out payment, the value above is assuming  an additional 15% increase over the next 5 years.  The "/>
+                    <Run Text=" "/>
                     <Hyperlink NavigateUri="#_Charts_for_Negotiation">
                         <Run Foreground="Blue" FontSize="14" Text="combined company entity valuation" TextDecorations="Underline"/>
                     </Hyperlink>
+                    <Run Text=" "/>
                     <Run FontSize="14" Text=" is within the range of $20551 to $24880. The price of the combined firm will be $66.65 to $83.29 which is 29.96% to 43.95% increase in the share price from the base acquiring company's stock price mostly due to the synergies which are assumed to be achieved by the combined firm.   "/>
                 </Paragraph>
                 <Paragraph>
@@ -47,6 +40,7 @@
                 </Paragraph>
                 <Paragraph>
                     <Run FontSize="14.6666666666667" FontFamily="Calibri"/>
+                    <Run Text=" "/>
                     <Span FontSize="14.6666666666667" FontFamily="Calibri">
                         <Run Text=""/>
                     </Span>
@@ -55,6 +49,19 @@
                     <Span FontSize="14.6666666666667" FontFamily="Calibri">
                         <Run/>
                     </Span>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox HorizontalAlignment="Left" Height="457" Margin="11,11,0,0" VerticalAlignment="Top" Width="413" Grid.RowSpan="2">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="In order to finance an acquisition between two leading organizations in the semi-conductor industry the following hypothetical  financial strategy  can be applied: "/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Assuming the following loan covenants are applicable for the combined firm to achieve optimal capital structure Long term debt/ equity&lt; = 0.75 and the Interest coverage ratio (EBIT/Interest expense) &gt;= 2.5. The acquiring company has numerous options to finance the acquisition. It can issue public corporate unsecured convertible senior notes to finance the acquisition. The conversion feature within these additional convertible notes allows the bondholder to convert the bond to stock when the conversion price is higher than the market price of the stock. Alternatively it can finance through asset based secure lending utilizing the underlying stable asset cash flows as collateral.  The payment strategy to purchase the target company's stock would be a combined cash and stock transactions through a tender stock purchase offer to all the target company's share holders. This would establish the acquiring company as the sole share holder with the target company be a subsidiary. The second step would be once the target company is the majority shareholder, through a back end merger it can require the minority shareholders to sell any remaining stock if required. To finance the purchase the acquiring company would borrow $1888.54 million through public corporate bonds. With this additional debt and at the base purchase price of $26.69 the acquiring company can purchase 70.75 million target company shares .The remaining 24.2087 million would be purchased through additional distribution of 21.42 million buyer company stocks."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>

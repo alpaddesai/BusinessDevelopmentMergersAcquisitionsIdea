@@ -11,7 +11,7 @@
             <ColumnDefinition Width="626*"/>
             <ColumnDefinition Width="17*"/>
         </Grid.ColumnDefinitions>
-        <RichTextBox HorizontalAlignment="Left" Height="369" Margin="16,279,0,0" VerticalAlignment="Top" Width="715">
+        <RichTextBox HorizontalAlignment="Left" Height="369" Margin="16,279,0,0" VerticalAlignment="Top" Width="715" TextChanged="RichTextBox_TextChanged">
             <FlowDocument>
                 <Paragraph FontWeight="Bold" FontSize="17.3333333333333" FontFamily="Century Gothic" Margin="0,13.33,0,0" TextAlignment="Left">
                     <Span Foreground="#FF6076B4">
@@ -20,13 +20,11 @@
                 </Paragraph>
                 <Paragraph FontSize="14.6666666666667" FontFamily="Arial" Margin="0,0,0,13.33" TextAlignment="Justify">
                     <Span>
-                        <Run Text="The projected price per share is in the range of $23 to $37. This number was derived by varying the terminal value in the discount cash flow analysis by utilizing a normal distribution curve with mean value of 6% for the long term growth rate in the discount rate formula. The beta value for cisco equity was manually derived through a linear regression with the S&amp;P index rate of return and Cisco equity rate of returns over the past 13 years. The data on the linear regression is provided in the appendix."/>
+                        <Run Text="The projected price per share is in the range of $23 to $37. This number was derived by varying the terminal value in the discount cash flow analysis by utilizing a normal distribution curve with  mean value of 6% for the long term growth rate in the discount rate formula. The beta value for cisco equity was manually derived through a linear regression with the S&amp;P index rate of return and Cisco equity rate of returns over the past 13 years. The data on the linear regression is provided in the appendix."/>
                     </Span>
                 </Paragraph>
                 <Paragraph FontSize="14.6666666666667" FontFamily="Arial" Margin="0,0,0,13.33" TextAlignment="Justify">
-                    <Span>
-                        <Run Text="The debt to market value entity capital structure for Cisco is approximately 20% with approximately $20.750 million in long term senior unsecured debt , divided into 18.4M fixed rate senior unsecured bonds and $2.3M floating rate unsecured senior bonds, $45M in short term investments and a market capitalization value of $129M. The % of long term debt has doubled in the last 5 years. In terms of shares outstanding, through various stock buy-back policies the % of shares outstanding has decreased in total by 13.26% in the last 5 years. The equity multiplier with total stock equity value is  1.878 with 55.97M in equity. Debt to equity ratio of 37.08% indicates Cisco has the option to increase the # of shares outstanding to finance activities without substantially diluting the price of share instead increasing long term debt. The times to interest ratio is 15.3 indicates financial stability."/>
-                    </Span>
+                    <Run Text="The debt to market value entity capital structure for Cisco is approximately 20% with approximately $20.750 million in long term senior unsecured debt , divided into 18.4M fixed rate senior unsecured bonds and $2.3M floating rate unsecured senior bonds, $45M in short term investments and a market capitalization value of $129M. The % of long term debt has doubled in the last 5 years. In terms of shares outstanding, through various stock buy-back policies the % of shares outstanding has decreased in total by 13.26% in the last 5 years. The equity multiplier with total stock equity value is  1.878 with 55.97M in equity. Debt to equity ratio of 37.08% indicates Cisco has the option to increase the # of shares outstanding to finance activities without substantially diluting the price of share instead increasing long term debt. The times to interest ratio is 15.3 indicates financial stability."/>
                 </Paragraph>
                 <Paragraph FontSize="14.6666666666667" FontFamily="Arial" Margin="0,0,0,13.33" TextAlignment="Justify">
                     <Span>
@@ -34,14 +32,10 @@
                     </Span>
                 </Paragraph>
                 <Paragraph FontSize="14.6666666666667" FontFamily="Arial" Margin="0,0,0,13.33" TextAlignment="Justify">
-                    <Span>
-                        <Run Text="In terms of profitability, a gross margin of 60.3%, operating margin of 22.1% and a net income margin of 16.7% indicates that stable cash flows.  The total asset turnover ratio is 0.5 which is slightly on the low side indicating better utilization of assets is possible, further investigation would be required within manufacturing and logistics processes. The return on assets is 7.47%, return on common equity is 13.86% utilizing stock holder equity book value with asset to equity ratio of 1.9. "/>
-                    </Span>
+                    <Run Text="In terms of profitability, a gross margin of 60.3%, operating margin of 22.1% and a net income margin of 16.7% indicates stable cash flows.  The total asset turnover ratio is 0.5 which is slightly on the low side indicating better utilization of assets is possible, further investigation would be required within manufacturing and logistics processes. The return on assets is 7.47%, return on common equity is 13.86%"/>
                 </Paragraph>
                 <Paragraph FontSize="14.6666666666667" FontFamily="Arial" Margin="0,0,0,13.33" TextAlignment="Justify">
-                    <Span>
-                        <Run Text="Based on this financial analysis Cisco is a stable position for growth.  The expenditure on research and development is more than 30% of the total expenses including selling, general and administrative expenses based on the income statement, this provides substantial confidence in terms of future growth in products.  "/>
-                    </Span>
+                    <Run Text="Based on this financial analysis Cisco is  stable position for growth.  The expenditure on research and development is more than 30% of the total expenses including selling, general and administrative expenses based on the income statement, this provides substantial confidence in terms of future growth in products.  "/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
