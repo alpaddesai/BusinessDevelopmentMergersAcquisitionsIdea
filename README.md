@@ -19,3 +19,6 @@ Most of the images are custom. Copyright protection is in process.
 
 ## Cisco Custom Entity Valutions
 ![image](CiscoCustomEntityValuations.png)
+
+## Competitive Analysis
+![image](CompetitiveAnalysis.png)
