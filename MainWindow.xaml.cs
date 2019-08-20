@@ -52,5 +52,17 @@ namespace MergersAcquisitions
             EntityValuations EntityValuationsObject = new EntityValuations();
             EntityValuationsObject.Show();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            ExampleRaisingCapital ExampleRaisingCapitalObject = new ExampleRaisingCapital();
+            ExampleRaisingCapitalObject.Show();
+        }
+
+        private void CompetitiveAnalysis_Click(object sender, RoutedEventArgs e)
+        {
+            Competitive_Analysis Competitive_AnalysisObject = new Competitive_Analysis();
+            Competitive_AnalysisObject.Show();
+        }
     }
 }

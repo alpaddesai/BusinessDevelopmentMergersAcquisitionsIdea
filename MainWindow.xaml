@@ -13,17 +13,17 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid Margin="0,0,20,14">
-        <Button x:Name="M_A" Content="M&amp;A Example in the  Electronic Design &#xD;&#xA;and Automation Industry" HorizontalAlignment="Left" Margin="53,562,0,0" VerticalAlignment="Top" Width="252" Height="87" RenderTransformOrigin="-0.381,0.157" Click="M_A_Click" FontWeight="Bold">
+        <Button x:Name="M_A" Content="M&amp;A Example in the  Electronic &#xD;&#xA;Design and Automation Industry" HorizontalAlignment="Left" Margin="6,561,0,0" VerticalAlignment="Top" Width="212" Height="84" RenderTransformOrigin="-0.381,0.157" Click="M_A_Click" FontWeight="Bold">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
         </Button>
-        <Button x:Name="Raising_Capital_Example_for_an_Acquisition" Content="Raising Capital Example&#xD;&#xA;    for an Acquisition" HorizontalAlignment="Left" Margin="315,564,0,0" VerticalAlignment="Top" Width="215" Height="87" Click="Raising_Capital_Example_for_an_Acquisition_Click" RenderTransformOrigin="0.492,0.586" FontWeight="Bold">
+        <Button x:Name="Raising_Capital_Example_for_an_Acquisition" Content="Raising Capital Example&#xD;&#xA;    for an Acquisition" HorizontalAlignment="Left" Margin="219,563,0,0" VerticalAlignment="Top" Width="159" Height="81" Click="Raising_Capital_Example_for_an_Acquisition_Click" RenderTransformOrigin="0.492,0.586" FontWeight="Bold">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
         </Button>
-        <Button x:Name="FormA" Content="Forming a Corporation" HorizontalAlignment="Left" Margin="552,565,0,-3" VerticalAlignment="Top" Width="180" Height="91" Click="FormA_Click" FontWeight="Bold">
+        <Button x:Name="FormA" Content="Forming a Corporation" HorizontalAlignment="Left" Margin="381,561,0,0" VerticalAlignment="Top" Width="156" Height="84" Click="FormA_Click" FontWeight="Bold">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>
@@ -141,7 +141,17 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Button x:Name="EntityValuations" Content="Entity Valuations" HorizontalAlignment="Left" Margin="760,566,0,-1" VerticalAlignment="Top" Width="174" Height="88" Click="EntityValuations_Click">
+        <Button x:Name="EntityValuations" Content="Entity Valuations" HorizontalAlignment="Left" Margin="541,564,0,0" VerticalAlignment="Top" Width="150" Height="79" Click="EntityValuations_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Image1.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Example of Raising Capital &#xD;&#xA;Competitive analysis" HorizontalAlignment="Left" Margin="699,563,0,0" VerticalAlignment="Top" Width="190" Height="79" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Image1.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="CompetitiveAnalysis" Content="Competitive Analysis" HorizontalAlignment="Left" Margin="897,565,0,0" VerticalAlignment="Top" Width="170" Height="75" Click="CompetitiveAnalysis_Click">
             <Button.Background>
                 <ImageBrush ImageSource="Image1.png"/>
             </Button.Background>

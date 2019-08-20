@@ -55,8 +55,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Competitive Analysis.xaml.cs">
+      <DependentUpon>Competitive Analysis.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EntityValuations.xaml.cs">
       <DependentUpon>EntityValuations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExampleRaisingCapital.xaml.cs">
+      <DependentUpon>ExampleRaisingCapital.xaml</DependentUpon>
     </Compile>
     <Compile Include="FormingACorporation.xaml.cs">
       <DependentUpon>FormingACorporation.xaml</DependentUpon>
@@ -64,7 +70,15 @@
     <Compile Include="RaisingCapital.xaml.cs">
       <DependentUpon>RaisingCapital.xaml</DependentUpon>
     </Compile>
+    <Page Include="Competitive Analysis.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="EntityValuations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExampleRaisingCapital.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -142,6 +156,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image6.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

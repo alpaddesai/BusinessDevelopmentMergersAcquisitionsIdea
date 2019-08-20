@@ -1,6 +1,8 @@
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\bin\Debug\MergersAcquisitions.exe.config
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\bin\Debug\MergersAcquisitions.exe
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\bin\Debug\MergersAcquisitions.pdb
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\EntityValuations.g.cs
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\ExampleRaisingCapital.g.cs
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\FormingACorporation.g.cs
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MainWindow.g.cs
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergerAnalysis.g.cs
@@ -8,6 +10,8 @@ C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\Rais
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\App.g.cs
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions_MarkupCompile.cache
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions_MarkupCompile.lref
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\EntityValuations.baml
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\ExampleRaisingCapital.baml
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\FormingACorporation.baml
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MainWindow.baml
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergerAnalysis.baml
@@ -18,5 +22,5 @@ C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\Merg
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions.exe
 C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\MergersAcquisitions.pdb
-C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\EntityValuations.g.cs
-C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\EntityValuations.baml
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\Competitive Analysis.g.cs
+C:\Users\ADG\source\repos\MergersAcquisitions\MergersAcquisitions\obj\Debug\Competitive Analysis.baml
