@@ -22,3 +22,6 @@ Most of the images are custom. Copyright protection is in process.
 
 ## Competitive Analysis
 ![image](CompetitiveAnalysis.png)
+
+## Raising Capital Strategy
+![image](FinancialStrategy.png)
