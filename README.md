@@ -25,3 +25,7 @@ Most of the images are custom. Copyright protection is in process.
 
 ## Raising Capital Strategy
 ![image](FinancialStrategy.png)
+
+
+## 
+![image](MBA.png)
