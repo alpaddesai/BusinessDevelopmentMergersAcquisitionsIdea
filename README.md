@@ -27,5 +27,5 @@ Most of the images are custom. Copyright protection is in process.
 ![image](FinancialStrategy.png)
 
 
-## 
+## MBA
 ![image](MBA.png)
