@@ -27,5 +27,3 @@ Most of the images are custom.
 ![image](FinancialStrategy.png)
 
 
-## MBA
-![image](MBA.png)
