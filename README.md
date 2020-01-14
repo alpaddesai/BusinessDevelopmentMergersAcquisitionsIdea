@@ -26,4 +26,5 @@ Most of the images are custom.
 ## Raising Capital Strategy
 ![image](FinancialStrategy.png)
 
-
+## Equity Research and Financial Planning
+![image](EquityResearchFinancialModeling.jpg)
