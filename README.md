@@ -28,3 +28,6 @@ Most of the images are custom.
 
 ## Equity Research and Financial Planning
 ![image](EquityResearchFinancialModeling.jpg)
+
+## MBA
+![image](MBA.png)
