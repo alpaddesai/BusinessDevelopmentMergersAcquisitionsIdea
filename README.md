@@ -31,3 +31,8 @@ Most of the images are custom.
 
 ## MBA
 ![image](MBA.png)
+
+Details reference: https://github.com/alpaddesai/MergersDocument
+                   
+                   
+ 
