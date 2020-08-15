@@ -29,10 +29,13 @@ Most of the images are custom.
 ## Equity Research and Financial Planning
 ![image](EquityResearchFinancialModeling.jpg)
 
+Details reference: https://github.com/alpaddesai/MergersDocument
+
 ## MBA
 ![image](MBA.png)
 
-Details reference: https://github.com/alpaddesai/MergersDocument
+Focused courses in https://github.com/alpaddesai/DataMining,  https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/ManagingTechnologicalInnovation, 
+https://github.com/alpaddesai/Macroeconomics,https://github.com/alpaddesai/VoiceofCustomerMarketResearch, https://github.com/alpaddesai/FinancialAccounting, https://github.com/alpaddesai/InvestmentPortfolio and https://github.com/alpaddesai/ProductMarketing.
                    
                    
  
