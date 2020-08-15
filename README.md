@@ -35,7 +35,7 @@ Further details reference: https://github.com/alpaddesai/MergersDocument
 ![image](MBA.png)
 
 Focused courses https://github.com/alpaddesai/DataMining,  https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/ManagingTechnologicalInnovation, 
-https://github.com/alpaddesai/Macroeconomics,https://github.com/alpaddesai/VoiceofCustomerMarketResearch, https://github.com/alpaddesai/FinancialAccounting, https://github.com/alpaddesai/InvestmentPortfolio and https://github.com/alpaddesai/ProductMarketing.
+https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/VoiceofCustomerMarketResearch, https://github.com/alpaddesai/FinancialAccounting, https://github.com/alpaddesai/InvestmentPortfolio and https://github.com/alpaddesai/ProductMarketing.
                    
                    
  
