@@ -29,7 +29,7 @@ Most of the images are custom.
 ## Equity Research and Financial Planning
 ![image](EquityResearchFinancialModeling.jpg)
 
-Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea , https://github.com/alpaddesai/BusinessDevelopment and https://github.com/alpaddesai/InnovationandGrowth
+Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea , https://github.com/alpaddesai/BusinessDevelopmentIdea and https://github.com/alpaddesai/InnovationandGrowth
 
 ## MBA
 ![image](MBA.png)
