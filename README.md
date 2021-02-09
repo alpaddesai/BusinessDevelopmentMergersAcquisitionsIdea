@@ -34,10 +34,6 @@ Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea 
 ## MBA
 ![image](MBA.png)
 
-https://nz.linkedin.com/school/l.d-college-of-engineering---ahmedabad/ |
-https://www.linkedin.com/school/iimahmedabad/ | 
-https://www.linkedin.com/school/babson-college---franklin-w.-olin-graduate-school-of-business
-
 Focused courses https://github.com/alpaddesai/DataMining,  https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/ManagingTechnologicalInnovation, 
 https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/VoiceofCustomerMarketResearch, https://github.com/alpaddesai/FinancialAccounting, https://github.com/alpaddesai/ManagerialAccounting, https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea, https://github.com/alpaddesai/PortfolioReturnGUI  and https://github.com/alpaddesai/ProductMarketing 
                    
