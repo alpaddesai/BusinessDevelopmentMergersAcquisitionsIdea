@@ -38,7 +38,7 @@ Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea 
 ![image](EthicsandExcellence.png)
 
 Focused courses https://github.com/alpaddesai/DataMining,  https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/ManagingTechnologicalInnovation, 
-https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/FinancialAccountingIdea, https://github.com/alpaddesai/ManagerialAccounting, https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea, https://github.com/alpaddesai/PortfolioReturnGUIIdea  and https://github.com/alpaddesai/ProductMarketing , https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement and https://github.com/alpaddesai/IndustrialRoboticAutomation.
+https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/FinancialAccountingIdea, https://github.com/alpaddesai/ManagerialAccounting, https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea, https://github.com/alpaddesai/PortfolioReturnGUIIdea , https://github.com/alpaddesai/ProductMarketing , https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement and https://github.com/alpaddesai/IndustrialRoboticAutomation.
 
                    
 
