@@ -6,8 +6,6 @@ All images are either custom by Alpa D Desai or a reference name is included.
 Most of the images are custom. 
 
 ## MBA
-![image](MBA.png)
-
 Focused courses https://github.com/alpaddesai/DataMining,  https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/ManagingTechnologicalInnovation, 
 https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/FinancialAccountingIdea, https://github.com/alpaddesai/ManagerialAccounting, https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea, https://github.com/alpaddesai/PortfolioReturnGUIIdea , https://github.com/alpaddesai/ProductMarketing , https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement and https://github.com/alpaddesai/IndustrialRoboticAutomation.
 
