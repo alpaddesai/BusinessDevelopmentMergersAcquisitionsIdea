@@ -9,7 +9,6 @@ Most of the images are custom.
 Focused courses https://github.com/alpaddesai/DataMining,  https://github.com/alpaddesai/ManagementConsulting, https://github.com/alpaddesai/ManagingTechnologicalInnovation, 
 https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/FinancialAccountingIdea, https://github.com/alpaddesai/ManagerialAccounting, https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea, https://github.com/alpaddesai/PortfolioReturnGUIIdea , https://github.com/alpaddesai/ProductMarketing , https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement and https://github.com/alpaddesai/IndustrialRoboticAutomation.
 
-
 ![image](Image.png)
 
 ## Merger Analysis
@@ -34,6 +33,8 @@ https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Ent
 ![image](EquityResearchFinancialModeling.jpg)
 
 Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea , https://github.com/alpaddesai/BusinessDevelopmentIdea , https://github.com/alpaddesai/BusinessLaw, https://github.com/alpaddesai/InnovationandGrowthIdea and https://github.com/alpaddesai/InternationalManagerialFinance
+
+## https://www.rolex.com/
 
  ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
