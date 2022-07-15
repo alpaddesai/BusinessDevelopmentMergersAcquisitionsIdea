@@ -38,5 +38,3 @@ Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea 
 
  ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
-  
-
