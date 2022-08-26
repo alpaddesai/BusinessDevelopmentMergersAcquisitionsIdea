@@ -1,4 +1,4 @@
-# Financial Markets, Entity Valuations and Business Development
+MBA 
 
 The project provides an introduction to the process of mergers and acquisitions. Confidential information is not displayed. 
 Please download the executable in https://github.com/alpaddesai/MergersAcquisitions/releases for details. 
