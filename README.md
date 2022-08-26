@@ -14,6 +14,9 @@ https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Ent
 ## GMAT test score
 ![image](GMATImage.jpg)
 
+## Tier II admission letter
+![image[(admissionletter.jpg)
+
 Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea , https://github.com/alpaddesai/BusinessDevelopmentIdea, https://github.com/alpaddesai/InnovationandGrowthIdea and https://github.com/alpaddesai/InternationalManagerialFinance.
 
 ## https://www.rolex.com/
