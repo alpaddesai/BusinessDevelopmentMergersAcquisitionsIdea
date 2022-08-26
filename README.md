@@ -29,9 +29,6 @@ https://github.com/alpaddesai/Macroeconomics,  https://github.com/alpaddesai/Ent
 ## Raising Capital Strategy
 ![image](FinancialStrategy.png)
 
-## Equity Research and Financial Planning
-![image](EquityResearchFinancialModeling.jpg)
-
 Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea , https://github.com/alpaddesai/BusinessDevelopmentIdea , https://github.com/alpaddesai/BusinessLaw, https://github.com/alpaddesai/InnovationandGrowthIdea and https://github.com/alpaddesai/InternationalManagerialFinance
 
 ## https://www.rolex.com/
