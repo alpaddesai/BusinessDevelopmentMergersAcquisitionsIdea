@@ -22,4 +22,3 @@ Further M&A projects include :https://github.com/alpaddesai/MergersDocumentIdea 
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
-
