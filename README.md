@@ -10,6 +10,8 @@ Focused courses https://github.com/alpaddesai/DataMining, https://github.com/alp
 
 #### Popular vote : https://github.com/alpaddesai/CharteredFinancialAnalystExam2022
 
+Additional details reference https://github.com/alpaddesai/GraduateDegrees
+
 ![image](Image.png)
 
  ## Ethics and Excellence
