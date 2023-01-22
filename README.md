@@ -12,7 +12,7 @@ Focused courses https://github.com/alpaddesai/DataMining, https://github.com/alp
 
 #### Popular Vote Project : https://github.com/alpaddesai/CharteredFinancialAnalystExam
 
-### Time spent: click
+#### Time spent: click
 ### ![image](Ilikedmytime.jpg)
 
 ![image](Image.png)
