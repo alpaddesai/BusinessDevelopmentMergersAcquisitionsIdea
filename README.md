@@ -19,4 +19,4 @@ Focused courses https://github.com/alpaddesai/DataMining, https://github.com/alp
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/ExecutiveMBA
+Additional details reference https://github.com/alpaddesai/GraduateDegrees
