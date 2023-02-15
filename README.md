@@ -2,7 +2,7 @@
 
 The project provides an introduction to the process of mergers and acquisitions. Confidential information is not displayed. All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. 
 
-![image](MBAClasses.jpg)
+![image](Image.png)
 Details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea/releases/tag/1.4v
 
 ## MBA
@@ -11,8 +11,6 @@ Focused courses https://github.com/alpaddesai/TechnicalProductManagement, https:
 #### Paid Employment : https://github.com/alpaddesai/ProductMarketing
 #### Sample revenue generating project : https://github.com/alpaddesai/HighTechGlobalStrategy 
 #### Popular Vote Project : https://github.com/alpaddesai/CharteredFinancialAnalystExam
-
-![image](Image.png)
 
  ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
