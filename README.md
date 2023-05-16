@@ -10,7 +10,7 @@ Focused courses https://github.com/alpaddesai/TechnicalProductManagement, https:
 
 #### Paid Employment : https://github.com/alpaddesai/ProductMarketing
 #### Sample revenue generating project : https://github.com/alpaddesai/HighTechGlobalStrategy 
-#### Popular Vote Project : https://github.com/alpaddesai/CharteredFinancialAnalystExam
+#### Popular Vote Project : https://github.com/alpaddesai/CharteredFinancialAnalystExam and https://github.com/alpaddesai/GraduateManagementAptitudeTest
 
  ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
