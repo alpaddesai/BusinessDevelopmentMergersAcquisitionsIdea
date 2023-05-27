@@ -14,7 +14,7 @@ Focused courses https://github.com/alpaddesai/TechnicalProductManagement, https:
 #### Popular Vote Exam: https://github.com/alpaddesai/CharteredFinancialAnalystExam 
 #### Entrance Test: https://github.com/alpaddesai/GraduateManagementAptitudeTest
 #### Admission Letter: https://github.com/alpaddesai/GraduateSchoolAdmissionLetters
-#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/CoverLetters
+#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/MBA_CoverLetters
 
  ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
